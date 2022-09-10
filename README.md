@@ -1,16 +1,42 @@
-### Hi there 👋
+## Olá, me chamo Henrique Pessolato! 
+Bem-vindo ao meu perfil do GitHub 👋
 
-<!--
-**pessolatohenrique/pessolatohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias que domino:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="80" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" height="80" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="100" height="80" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" width="100" height="80" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" height="80" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="80" />    
+</div>
 
-Here are some ideas to get you started:
+### Estou aprendendo e me aperfeiçoando em:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="100" height="80" />               
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Estou trabalhando como:
+Engenheiro de Software no Grupo DPSP (Drogarias Pacheco e São Paulo). Abaixo estão algumas empresas que fazem / fizeram parte de minha jornada:
+
+<div>
+<img src="https://www.abrigo.org.br/sites/default/files/2020-06/Logo-Drogaria-So-Paulo.png" width="250" height="120" style="margin-right: 50px" />
+<img src="https://atendimentoiupp.zendesk.com/hc/article_attachments/360068631691/Pacheco.png" width="250" height="100" />
+<img src="https://ftd-consultoriaonline.s3.amazonaws.com/wp-content/uploads/2022/08/logo-ftd-trans.png" width="200" height="120" />
+<img src="https://itwsgroup.com/img/logo.png" width="200" height="120" />
+</div>
+
+### Os meus contatos são:
+<div>
+<a href="https://www.instagram.com/pessolatohenriquecendo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:pessolatohenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/henrique-pessolato-436aba6a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
