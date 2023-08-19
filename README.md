@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub 👋
 
 ### Estou aprendendo e me aperfeiçoando em:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="100" height="80" />               
+<img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png width="100" height="80" />               
 </div>
 
 
@@ -36,7 +36,7 @@ Engenheiro de Software no Grupo DPSP (Drogarias Pacheco e São Paulo). Abaixo es
 
 <div>
 <img src="https://www.abrigo.org.br/sites/default/files/2020-06/Logo-Drogaria-So-Paulo.png" width="250" height="120" style="margin-right: 50px" />
-<img src="https://atendimentoiupp.zendesk.com/hc/article_attachments/360068631691/Pacheco.png" width="250" height="100" />
+<img src="https://logodownload.org/wp-content/uploads/2022/08/drogarias-pacheco-logo-1.png" width="250" height="100" />
 <img src="https://ftd-consultoriaonline.s3.amazonaws.com/wp-content/uploads/2022/08/logo-ftd-trans.png" width="200" height="120" />
 <img src="https://itwsgroup.com/img/logo.png" width="200" height="120" />
 </div>
