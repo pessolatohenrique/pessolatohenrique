@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub 👋
 
 ### Estou aprendendo e me aperfeiçoando em:
 <div>
-<img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png width="100" height="80" />               
+<img src="https://user-images.githubusercontent.com/2752551/30404912-d5781a00-989d-11e7-8d25-5ebca177326a.png" width="100" height="80" />               
 </div>
 
 
